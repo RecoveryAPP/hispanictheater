@@ -14,7 +14,7 @@ credits: true
 
 ## About the Collection
 
-<b>1 and 2: Why Do It and Making the Case:</b>
+<b>1 and 2: Why do it and Making the case:</b>
 <p>The US Latino Digital Humanities Center (USLDH) at the University of Houston (UH) received funding from the American Council of Learned Societies (ACLS) and University of Idaho’s Collection Builder to digitize, create metadata, research geolocations, translate and create an exhibit on the Collection Builder platform. CollectionBuilder is an open source tool for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.</p>
 
 <p>The Nicolás Kanellos Hispanic Theater Collection is one of the largest archival collections on this topic in the United States. This collection centers the Hispanic community within US theater production and highlights the role that Hispanic theater (actors, writers, producers, musicians, technicians, artists and many others) played in the creation of cultural and sociopolitical capital. The collection documents a rich theater community that includes well known, up and coming and amateur participants. In addition, it also locates Hispanic theatrical productions in time and space. This exhibit will be useful to anyone wishing to learn more about American and Hispanic American theater.</p>
