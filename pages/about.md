@@ -13,12 +13,11 @@ credits: true
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 <html>
 
-About the Collection  
+## About the Collection  
   
-1 and 2: Why do it and Making the case:  
+**1 and 2: Why do it and Making the case:** 
  
 The US Latino Digital Humanities Center (USLDH) at the University of Houston (UH) received funding from the American Council of Learned Societies (ACLS) and University of Idaho’s Collection Builder to digitize, create metadata, research geolocations, translate and create an exhibit on the Collection Builder platform. CollectionBuilder is an open source tool for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology. 
-
 
 The Nicolás Kanellos Hispanic Theater Collection is one of the largest archival collections on this topic in the United States. This collection centers the Hispanic community within US theater production and highlights the role that Hispanic theater (actors, writers, producers, musicians, technicians, artists and many others) played in the creation of cultural and sociopolitical capital. The collection documents a rich theater community that includes well known, up and coming and amateur participants. In addition, it also locates Hispanic theatrical productions in time and space. This exhibit will be useful to anyone wishing to learn more about American and Hispanic American theater. 
   
@@ -28,7 +27,7 @@ After testing various exhibit platforms, USLDH decided to use CollectionBuilder 
    
 USLDH staff used CollectionBuilder’s three primary components—a spreadsheet of metadata, a directory of assets, and a configuration file—to build and customize a sustainable, digital exhibit. Research Fellows and interns digitized the items in the collection and USLDH staff, under the direction of Gabriela Baeza Ventura and Lorena Gauthereau. Baeza Ventura and Gauthereau curated an exhibit and created the metadata. Research Fellows and interns researched latitude and longitude data for geolocation. Images were resized to comply with CollectionBuilder specifications. English and Spanish translations were created by Baeza Ventura, Gauthereau and Research Fellow. USLDH used Google Drive to create and organize the metadata in order to mitigate the challenges of working during the COVID-19 pandemic.  
  
-People 
+*People* 
   
 -Gabriela Baeza Ventura, PhD: curation, metadata, translations, editing, protocols 
 -Lorena Gauthereau, PhD: curation, metadata, translations, editing, protocols
@@ -69,12 +68,13 @@ The Nicolás Kanellos Hispanic Theater Collection is housed at the [University o
   
 **7. Things people should know:** 
   
-When working with Hispanic materials in the United States, users should be mindful of language usage, gender, historical context and linguistic cultural competence in the public facing part of your project. As Nicolás Kanellos curated the physical collection, he researched newspapers and playbills to identify Hispanic playwrights, actors and actresses, theater staff (producers, stage managers, directors, set designers, costume designers, etc.), plays, troupes, theater buildings and their locations in order to create a better understanding of the origins of Hispanic theater in the United States. This digital exhibit draws from Kanellos’ collection at the University of Houston’s Special Collections to highlight the key players, theaters and troupes in US Hispanic theater. The Hispanic Theater Collection features photographs, posters, playbills, flyers, among other items related to Hispanic theater in the United States.
-
-**8. What’s next:
-USLDH will publish a digital version of *Mexican American Theatre: Then and Now* (1989), edited by Nicolás Kanellos on [APPDigital](https://artepublicopress.manifoldapp.org/). *Mexican American Theatre* is a collection of interviews, essays and vaudeville skits from the 1930s to the 1950s all pertaining to Mexican-American theater. It includes historical studies by Jorge Huerta, Nicolás Kanellos, Tomás Ybarra-Frausto and others; an exclusive interview of Luis Valdez; and vaudeville material from Lalo Astol, the Carpa Garcia and others.
-
-USLDH is currently working with CollectionBuilder to create a multilingual version of the platform.
+When working with Hispanic materials in the United States, users should be mindful of language usage, gender, historical context and linguistic cultural competence in the public facing part of your project. As Nicolás Kanellos curated the physical collection, he researched newspapers and playbills to identify Hispanic playwrights, actors and actresses, theater staff (producers, stage managers, directors, set designers, costume designers, etc.), plays, troupes, theater buildings and their locations in order to create a better understanding of the origins of Hispanic theater in the United States. This digital exhibit draws from Kanellos’ collection at the University of Houston’s Special Collections to highlight the key players, theaters and troupes in US Hispanic theater. The Hispanic Theater Collection features photographs, posters, playbills, flyers, among other items related to Hispanic theater in the United States.  
+  
+**8. What’s next:** 
+  
+USLDH will publish a digital version of *Mexican American Theatre: Then and Now* (1989), edited by Nicolás Kanellos on [APPDigital](https://artepublicopress.manifoldapp.org/). *Mexican American Theatre* is a collection of interviews, essays and vaudeville skits from the 1930s to the 1950s all pertaining to Mexican-American theater. It includes historical studies by Jorge Huerta, Nicolás Kanellos, Tomás Ybarra-Frausto and others; an exclusive interview of Luis Valdez; and vaudeville material from Lalo Astol, the Carpa Garcia and others.  
+  
+USLDH is currently working with CollectionBuilder to create a multilingual version of the platform.  
 
 
 
