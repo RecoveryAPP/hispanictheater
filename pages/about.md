@@ -14,23 +14,23 @@ credits: true
 <html>
 
 <br>About the Collection
-  
+extra &nbsp;&nbsp; space  
   
 <br>1 and 2: Why do it and Making the case:
- 
+extra &nbsp;&nbsp; space 
 <br>The US Latino Digital Humanities Center (USLDH) at the University of Houston (UH) received funding from the American Council of Learned Societies (ACLS) and University of Idaho’s Collection Builder to digitize, create metadata, research geolocations, translate and create an exhibit on the Collection Builder platform. CollectionBuilder is an open source tool for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-  
+extra &nbsp;&nbsp; space 
   
 <br>The Nicolás Kanellos Hispanic Theater Collection is one of the largest archival collections on this topic in the United States. This collection centers the Hispanic community within US theater production and highlights the role that Hispanic theater (actors, writers, producers, musicians, technicians, artists and many others) played in the creation of cultural and sociopolitical capital. The collection documents a rich theater community that includes well known, up and coming and amateur participants. In addition, it also locates Hispanic theatrical productions in time and space. This exhibit will be useful to anyone wishing to learn more about American and Hispanic American theater.
-  
+ 
 <br>After testing various exhibit platforms, USLDH decided to use CollectionBuilder due to the visual nature of the collection. CollectionBuilder uses the static site generator Jekyll, together with some particular workflows, to help users generate digital collections and exhibits from their own spreadsheets and digital media. The Hispanic Theater Collections includes a map, timeline, word cloud, and other visualizations, as well as browsing features, item pages, and new, reusable data formats that can be downloaded by users and processed/indexed by machines. 
-  
+extra &nbsp;&nbsp; space  
 <br>3. How you did it: 
-   
+extra &nbsp;&nbsp; space  
 <br>USLDH staff used CollectionBuilder’s three primary components—a spreadsheet of metadata, a directory of assets, and a configuration file—to build and customize a sustainable, digital exhibit. Research Fellows and interns digitized the items in the collection and USLDH staff, under the direction of Gabriela Baeza Ventura and Lorena Gauthereau. Baeza Ventura and Gauthereau curated an exhibit and created the metadata. Research Fellows and interns researched latitude and longitude data for geolocation. Images were resized to comply with CollectionBuilder specifications. English and Spanish translations were created by Baeza Ventura, Gauthereau and Research Fellow. USLDH used Google Drive to create and organize the metadata in order to mitigate the challenges of working during the COVID-19 pandemic.
-  
+ extra &nbsp;&nbsp; space 
 <br>People 
-  
+ extra &nbsp;&nbsp; space 
 -Gabriela Baeza Ventura, PhD: curation, metadata, translations, editing, protocols 
 -Lorena Gauthereau, PhD: curation, metadata, translations, editing, protocols
 -Nicolás Kanellos, PhD: Collection owner/donor, advisor
@@ -40,43 +40,42 @@ credits: true
 -Elías David Navarro: translations 
   
 <br>4. Share the docs:  
-
-  
+extra &nbsp;&nbsp; space  
 <br>USLDH employed its [Best Practices] (https://artepublicopress.com/digital-humanities/)during the elaboration of this work.  
-  
+extra &nbsp;&nbsp; space
 <br>Kanellos, Nicolás (ed.), *Mexican Theatre: Then and Now.* Arte Público Press, 1989.  
-  
+  extra &nbsp;&nbsp; space
 <br>This About section follows [Collections as Data](https://collectionsasdata.github.io/facet7/) facets.  
-  
+  extra &nbsp;&nbsp; space
 <br>The metadata is available for download on the site’s [Data](https://recoveryapp.github.io/hispanictheater/data.html) menu tab. 
-  
+  extra &nbsp;&nbsp; space
 <br>This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/)from:  
-  
--a CSV of collection metadata
--a folder of JPG images or PDF documents
-  
+  extra &nbsp;&nbsp; space
+<br>a CSV of collection metadata
+<br>a folder of JPG images or PDF documents
+  extra &nbsp;&nbsp; space
 <br>The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital).  
-  
+  extra &nbsp;&nbsp; space
 <br>For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!  
-  
+  extra &nbsp;&nbsp; space
 <br>5. Understanding use:  
-  
+  extra &nbsp;&nbsp; space
 <br>This collection is geared toward researchers, educators, students and community members interested in learning about the US Latino theater, its origins, key participants, theaters, troupes and performances. Users can use it as a launching point for further research in US Latino Studies, American Studies, Theater and Performance Studies, material/print culture and Women, Gender and Sexualities Studies, etc.  
-   
+   extra &nbsp;&nbsp; space
 <br>6. Who supports use:  
-  
+  extra &nbsp;&nbsp; space
 <br>The digital collection is supported by the [US Latino Digital Humanities Center/Recovering the US Hispanic Literary Heritage Program](https://artepublicopress.com/digital-humanities/).
-
+extra &nbsp;&nbsp; space
 <br>The Nicolás Kanellos Hispanic Theater Collection is housed at the [University of Houston Libraries Special Collections](https://findingaids.lib.uh.edu/repositories/2/resources/482). The collection consists of 9 boxes of manuscripts, printed materials, photographs and publications related to Hispanic theater dating from 1972 to 2015. The collection includes materials collected by Dr. Kanellos as well as documentation of his 1985 exhibit "Two Centuries of Hispanic Theatre in the United States."
-  
+  extra &nbsp;&nbsp; space
 <br>7. Things people should know: 
-  
+  extra &nbsp;&nbsp; space
 <br>When working with Hispanic materials in the United States, users should be mindful of language usage, gender, historical context and linguistic cultural competence in the public facing part of your project. As Nicolás Kanellos curated the physical collection, he researched newspapers and playbills to identify Hispanic playwrights, actors and actresses, theater staff (producers, stage managers, directors, set designers, costume designers, etc.), plays, troupes, theater buildings and their locations in order to create a better understanding of the origins of Hispanic theater in the United States. This digital exhibit draws from Kanellos’ collection at the University of Houston’s Special Collections to highlight the key players, theaters and troupes in US Hispanic theater. The Hispanic Theater Collection features photographs, posters, playbills, flyers, among other items related to Hispanic theater in the United States.  
-  
+  extra &nbsp;&nbsp; space
 <br>8. What’s next:
-  
+extra &nbsp;&nbsp; space  
 <br>USLDH will publish a digital version of *Mexican American Theatre: Then and Now* (1989), edited by Nicolás Kanellos on [APPDigital](https://artepublicopress.manifoldapp.org/). *Mexican American Theatre* is a collection of interviews, essays and vaudeville skits from the 1930s to the 1950s all pertaining to Mexican-American theater. It includes historical studies by Jorge Huerta, Nicolás Kanellos, Tomás Ybarra-Frausto and others; an exclusive interview of Luis Valdez; and vaudeville material from Lalo Astol, the Carpa Garcia and others.  
-  
+  extra &nbsp;&nbsp; space
 <br>USLDH is currently working with CollectionBuilder to create a multilingual version of the platform.  
 
 
