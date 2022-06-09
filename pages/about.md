@@ -12,18 +12,22 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 <html>
-  #About the Collection
 
-##1 and 2: Why do it and Making the case:
-The US Latino Digital Humanities Center (USLDH) at the University of Houston (UH) received funding from the American Council of Learned Societies (ACLS) and University of Idaho’s Collection Builder to digitize, create metadata, research geolocations, translate and create an exhibit on the Collection Builder platform. CollectionBuilder is an open source tool for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology
+About the Collection  
+  
+1 and 2: Why do it and Making the case:  
+ 
+The US Latino Digital Humanities Center (USLDH) at the University of Houston (UH) received funding from the American Council of Learned Societies (ACLS) and University of Idaho’s Collection Builder to digitize, create metadata, research geolocations, translate and create an exhibit on the Collection Builder platform. CollectionBuilder is an open source tool for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology. 
 
-The Nicolás Kanellos Hispanic Theater Collection is one of the largest archival collections on this topic in the United States. This collection centers the Hispanic community within US theater production and highlights the role that Hispanic theater (actors, writers, producers, musicians, technicians, artists and many others) played in the creation of cultural and sociopolitical capital. The collection documents a rich theater community that includes well known, up and coming and amateur participants. In addition, it also locates Hispanic theatrical productions in time and space. This exhibit will be useful to anyone wishing to learn more about American and Hispanic American theater
 
-After testing various exhibit platforms, USLDH decided to use CollectionBuilder due to the visual nature of the collection. CollectionBuilder uses the static site generator Jekyll, together with some particular workflows, to help users generate digital collections and exhibits from their own spreadsheets and digital media. The Hispanic Theater Collections includes a map, timeline, word cloud, and other visualizations, as well as browsing features, item pages, and new, reusable data formats that can be downloaded by users and processed/indexed by machines.
-
-##3. How you did it:
-USLDH staff used CollectionBuilder’s three primary components—a spreadsheet of metadata, a directory of assets, and a configuration file—to build and customize a sustainable, digital exhibit. Research Fellows and interns digitized the items in the collection and USLDH staff, under the direction of Gabriela Baeza Ventura and Lorena Gauthereau. Baeza Ventura and Gauthereau curated an exhibit and created the metadata. Research Fellows and interns researched latitude and longitude data for geolocation. Images were resized to comply with CollectionBuilder specifications. English and Spanish translations were created by Baeza Ventura, Gauthereau and Research Fellow. USLDH used Google Drive to create and organize the metadata in order to mitigate the challenges of working during the COVID-19 pandemic.
-
+The Nicolás Kanellos Hispanic Theater Collection is one of the largest archival collections on this topic in the United States. This collection centers the Hispanic community within US theater production and highlights the role that Hispanic theater (actors, writers, producers, musicians, technicians, artists and many others) played in the creation of cultural and sociopolitical capital. The collection documents a rich theater community that includes well known, up and coming and amateur participants. In addition, it also locates Hispanic theatrical productions in time and space. This exhibit will be useful to anyone wishing to learn more about American and Hispanic American theater. 
+  
+After testing various exhibit platforms, USLDH decided to use CollectionBuilder due to the visual nature of the collection. CollectionBuilder uses the static site generator Jekyll, together with some particular workflows, to help users generate digital collections and exhibits from their own spreadsheets and digital media. The Hispanic Theater Collections includes a map, timeline, word cloud, and other visualizations, as well as browsing features, item pages, and new, reusable data formats that can be downloaded by users and processed/indexed by machines.  
+  
+3. How you did it:  
+   
+USLDH staff used CollectionBuilder’s three primary components—a spreadsheet of metadata, a directory of assets, and a configuration file—to build and customize a sustainable, digital exhibit. Research Fellows and interns digitized the items in the collection and USLDH staff, under the direction of Gabriela Baeza Ventura and Lorena Gauthereau. Baeza Ventura and Gauthereau curated an exhibit and created the metadata. Research Fellows and interns researched latitude and longitude data for geolocation. Images were resized to comply with CollectionBuilder specifications. English and Spanish translations were created by Baeza Ventura, Gauthereau and Research Fellow. USLDH used Google Drive to create and organize the metadata in order to mitigate the challenges of working during the COVID-19 pandemic.  
+ 
 People
 
 -Gabriela Baeza Ventura, PhD: curation, metadata, translations, editing, protocols 
@@ -32,13 +36,13 @@ People
 -Katerín Zapata: geolocation, image resizing, upload
 -S. Shine Trabucco: geolocation
 -María Sánchez Carbajo: scanning, inventory
--Elías David Navarro: translations</li>
+-Elías David Navarro: translations
   
-##4. Share the docs:
+4. Share the docs:
 USLDH employed its [Best Practices] (https://artepublicopress.com/digital-humanities/)during the elaboration of this work.
 Kanellos, Nicolás (ed.), *Mexican Theatre: Then and Now.* Arte Público Press, 1989.
 This About section follows [Collections as Data](https://collectionsasdata.github.io/facet7/) facets.
-The metadata is available for download on the site’s [Data](https://recoveryapp.github.io/hispanictheater/data.html)</a> menu tab.</p>
+The metadata is available for download on the site’s [Data](https://recoveryapp.github.io/hispanictheater/data.html)</a> menu tab.
  <p>This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/)</a> from: </p>
 
 -a CSV of collection metadata
