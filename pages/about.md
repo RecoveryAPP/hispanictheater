@@ -28,32 +28,27 @@ credits: true
 <br>USLDH staff used CollectionBuilder’s three primary components—a spreadsheet of metadata, a directory of assets, and a configuration file—to build and customize a sustainable, digital exhibit. Research Fellows and interns digitized the items in the collection and USLDH staff, under the direction of Gabriela Baeza Ventura and Lorena Gauthereau. Baeza Ventura and Gauthereau curated an exhibit and created the metadata. Research Fellows and interns researched latitude and longitude data for geolocation. Images were resized to comply with CollectionBuilder specifications. English and Spanish translations were created by Baeza Ventura, Gauthereau and Research Fellow. USLDH used Google Drive to create and organize the metadata in order to mitigate the challenges of working during the COVID-19 pandemic.
 <p>
   </p>  
-  <br><i>People</i> 
-  <ul>
-    <li>Gabriela Baeza Ventura, PhD: curation, metadata, translations, editing, protocols </li>
-    <li>Lorena Gauthereau, PhD: curation, metadata, translations, editing, protocols</li>
-    <li>Nicolás Kanellos, PhD: Collection owner/donor, advisor</li>
-    <li>Katerín Zapata: geolocation, image resizing, upload</li>
-    <li>S. Shine Trabucco: geolocation</li>
-    <li>María Sánchez Carbajo: scanning, inventory</li>
-    <li>Elías David Navarro: translations</li> 
-  </ul>
+  <br><i>People</i> <br/>
+  Gabriela Baeza Ventura, PhD: curation, metadata, translations, editing, protocols <br/>
+   Lorena Gauthereau, PhD: curation, metadata, translations, editing, protocols<br/>
+   Nicolás Kanellos, PhD: Collection owner/donor, advisor<br/>
+   Katerín Zapata: geolocation, image resizing, upload<br/>
+   S. Shine Trabucco: geolocation<br/>
+ María Sánchez Carbajo: scanning, inventory<br/>
+Elías David Navarro: translations<br/>
+
  <p>
   </p> 
 <br>4. Share the docs:  
   <p>
   </p>
-<br>USLDH employed its Best Practices <a href=”https://artepublicopress.com/digital-humanities/"> </a> during the elaboration of this work.  
-<p>
+<p>USLDH employed its <a href= "https://artepublicopress.com/digital-humanities/">Best Practices </a> during the elaboration of this work.</p>
+
+  <p>Kanellos, Nicolás (ed.), <i>Mexican Theatre: Then and Now.</i> Arte Público Press, 1989.</p>  
+
+<p>This About section follows <a href=”https://collectionsasdata.github.io/facet7/">Collections as Data</a> facets.  
   </p>
-  <br>Kanellos, Nicolás (ed.), <i>Mexican Theatre: Then and Now.</i> Arte Público Press, 1989.  
-<p>
-  </p>
-<br>This About section follows Collections as Data <a href=”https://collectionsasdata.github.io/facet7/" </a> facets.  
-<p>
-  </p>
-<br>The metadata is available for download on the site’s [Data](https://recoveryapp.github.io/hispanictheater/data.html) menu tab. 
-<p>
+<p>The metadata is available for download on the site’s <a href= "https://recoveryapp.github.io/hispanictheater/data.html">Data</a> menu tab. 
   </p>
  <br>This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/)from:  
  <p>
