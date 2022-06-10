@@ -16,7 +16,7 @@ credits: true
   <h1><b>About the Collection</b></h1>
  <p>
   </p>
-  <i><h2>1 and 2: Why do it and Making the case:</i></h2>
+  <h2><i>1 and 2: Why do it and Making the case:</i></h2>
 <p>The US Latino Digital Humanities Center (USLDH) at the University of Houston (UH) received funding from the American Council of Learned Societies (ACLS) and University of Idaho’s Collection Builder to digitize, create metadata, research geolocations, translate and create an exhibit on the Collection Builder platform. CollectionBuilder is an open source tool for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.</p>
 
   <p>The Nicolás Kanellos Hispanic Theater Collection is one of the largest archival collections on this topic in the United States. This collection centers the Hispanic community within US theater production and highlights the role that Hispanic theater (actors, writers, producers, musicians, technicians, artists and many others) played in the creation of cultural and sociopolitical capital. The collection documents a rich theater community that includes well known, up and coming and amateur participants. In addition, it also locates Hispanic theatrical productions in time and space. This exhibit will be useful to anyone wishing to learn more about American and Hispanic American theater.</p>
@@ -34,14 +34,14 @@ credits: true
  María Sánchez Carbajo: scanning, inventory<br/>
 Elías David Navarro: translations<br/>
 </p> 
-  <h2<i>4. Share the docs:</i> </h2> 
+  <h2><i>4. Share the docs:</i></h2> 
   <p>
   </p>
 <p>USLDH employed its <a href= "https://artepublicopress.com/digital-humanities/">Best Practices </a> during the elaboration of this work.</p>
 
   <p>Kanellos, Nicolás (ed.), <i>Mexican Theatre: Then and Now.</i> Arte Público Press, 1989.</p>  
 
-<p>This About section follows <a href=”https://collectionsasdata.github.io/facet7/">Collections as Data</a> facets.  
+<p>This About section follows <a href= "https://collectionsasdata.github.io/facet7/">Collections as Data</a> facets.  
   </p>
 <p>The metadata is available for download on the site’s <a href= "https://recoveryapp.github.io/hispanictheater/data.html">Data</a> menu tab. 
   </p>
@@ -61,7 +61,7 @@ Elías David Navarro: translations<br/>
   <br><i>6. Who supports use:</i>  
   <p>
   </p>
-<br>The digital collection is supported by the [US Latino Digital Humanities Center/Recovering the US Hispanic Literary Heritage Program](https://artepublicopress.com/digital-humanities/).
+<br>The digital collection is supported by the <a href="https://artepublicopress.com/digital-humanities/">US Latino Digital Humanities Center/Recovering the US Hispanic Literary Heritage Program</a>.
 <p>
   </p>
 <br>The Nicolás Kanellos Hispanic Theater Collection is housed at the [University of Houston Libraries Special Collections](https://findingaids.lib.uh.edu/repositories/2/resources/482). The collection consists of 9 boxes of manuscripts, printed materials, photographs and publications related to Hispanic theater dating from 1972 to 2015. The collection includes materials collected by Dr. Kanellos as well as documentation of his 1985 exhibit "Two Centuries of Hispanic Theatre in the United States."
