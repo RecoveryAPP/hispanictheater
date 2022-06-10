@@ -13,17 +13,17 @@ credits: true
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 <html>
 
-  <h1><b>About the Collection</b></h1>
+  <b>About the Collection</b>
  <p>
   </p>
-  <h2><i>1 and 2: Why do it and Making the case:</i></h2>
+  <p><i>1 and 2: Why do it and Making the case:</i></p>
 <p>The US Latino Digital Humanities Center (USLDH) at the University of Houston (UH) received funding from the American Council of Learned Societies (ACLS) and University of Idaho’s Collection Builder to digitize, create metadata, research geolocations, translate and create an exhibit on the Collection Builder platform. CollectionBuilder is an open source tool for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.</p>
 
   <p>The Nicolás Kanellos Hispanic Theater Collection is one of the largest archival collections on this topic in the United States. This collection centers the Hispanic community within US theater production and highlights the role that Hispanic theater (actors, writers, producers, musicians, technicians, artists and many others) played in the creation of cultural and sociopolitical capital. The collection documents a rich theater community that includes well known, up and coming and amateur participants. In addition, it also locates Hispanic theatrical productions in time and space. This exhibit will be useful to anyone wishing to learn more about American and Hispanic American theater.</p>
  
 <p>After testing various exhibit platforms, USLDH decided to use CollectionBuilder due to the visual nature of the collection. CollectionBuilder uses the static site generator Jekyll, together with some particular workflows, to help users generate digital collections and exhibits from their own spreadsheets and digital media. The Hispanic Theater Collections includes a map, timeline, word cloud, and other visualizations, as well as browsing features, item pages, and new, reusable data formats that can be downloaded by users and processed/indexed by machines. 
   </p>
-  <h2><i>3. How you did it:</i></h2> 
+  <p><i>3. How you did it:</i></p> 
 <p>USLDH staff used CollectionBuilder’s three primary components—a spreadsheet of metadata, a directory of assets, and a configuration file—to build and customize a sustainable, digital exhibit. Research Fellows and interns digitized the items in the collection and USLDH staff, under the direction of Gabriela Baeza Ventura and Lorena Gauthereau. Baeza Ventura and Gauthereau curated an exhibit and created the metadata. Research Fellows and interns researched latitude and longitude data for geolocation. Images were resized to comply with CollectionBuilder specifications. English and Spanish translations were created by Baeza Ventura, Gauthereau and Research Fellow. USLDH used Google Drive to create and organize the metadata in order to mitigate the challenges of working during the COVID-19 pandemic.</p>  
 <p><i>People</i> <br/>
   Gabriela Baeza Ventura, PhD: curation, metadata, translations, editing, protocols <br/>
@@ -34,7 +34,7 @@ credits: true
  María Sánchez Carbajo: scanning, inventory<br/>
 Elías David Navarro: translations<br/>
 </p> 
-  <h2><i>4. Share the docs:</i></h2> 
+  <p><i>4. Share the docs:</i></p> 
   <p>
   </p>
 <p>USLDH employed its <a href= "https://artepublicopress.com/digital-humanities/">Best Practices </a> during the elaboration of this work.</p>
@@ -52,13 +52,13 @@ Elías David Navarro: translations<br/>
 
 <p>For full details of creating your own collection site, visit <a href="https://collectionbuilder.github.io/cb-docs/">CollectionBuilder Documentation</a>!   
   </p>
-  <h2><br><i>5. Understanding use:</i> </h2> 
+  <p><i>5. Understanding use:</i> </p> 
 <p>
   </p>
   <p>This collection is geared toward researchers, educators, students and community members interested in learning about the US Latino theater, its origins, key participants, theaters, troupes and performances. Users can use it as a launching point for further research in US Latino Studies, American Studies, Theater and Performance Studies, material/print culture and Women, Gender and Sexualities Studies, etc.  </p>
    <p>
   </p>
-  <br><i>6. Who supports use:</i>  
+  <br><p><i>6. Who supports use:</i></p>  
   <p>
   </p>
 <br>The digital collection is supported by the <a href="https://artepublicopress.com/digital-humanities/">US Latino Digital Humanities Center/Recovering the US Hispanic Literary Heritage Program</a>.
@@ -76,7 +76,7 @@ Elías David Navarro: translations<br/>
   <br><i>8. What’s next:</i>
 <p>
   </p>  
-<br>USLDH will publish a digital version of *Mexican American Theatre: Then and Now* (1989), edited by Nicolás Kanellos on [APPDigital](https://artepublicopress.manifoldapp.org/). *Mexican American Theatre* is a collection of interviews, essays and vaudeville skits from the 1930s to the 1950s all pertaining to Mexican-American theater. It includes historical studies by Jorge Huerta, Nicolás Kanellos, Tomás Ybarra-Frausto and others; an exclusive interview of Luis Valdez; and vaudeville material from Lalo Astol, the Carpa Garcia and others.  
+  <br>USLDH will publish a digital version of <i>Mexican American Theatre: Then and Now</i> (1989), edited by Nicolás Kanellos on [APPDigital](https://artepublicopress.manifoldapp.org/). <i>Mexican American Theatre</i> is a collection of interviews, essays and vaudeville skits from the 1930s to the 1950s all pertaining to Mexican-American theater. It includes historical studies by Jorge Huerta, Nicolás Kanellos, Tomás Ybarra-Frausto and others; an exclusive interview of Luis Valdez; and vaudeville material from Lalo Astol, the Carpa Garcia and others.  
  <p>
   </p> 
 <br>USLDH is currently working with CollectionBuilder to create a multilingual version of the platform.  
