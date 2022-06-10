@@ -29,14 +29,15 @@ credits: true
 <p>
   </p>  
   <br><i>People</i> 
-  
-<br>Gabriela Baeza Ventura, PhD: curation, metadata, translations, editing, protocols 
-<br>Lorena Gauthereau, PhD: curation, metadata, translations, editing, protocols
-<br>Nicolás Kanellos, PhD: Collection owner/donor, advisor
-<br>Katerín Zapata: geolocation, image resizing, upload
-<br>S. Shine Trabucco: geolocation
-<br>María Sánchez Carbajo: scanning, inventory
-<br>Elías David Navarro: translations 
+  <ul>
+    <li>Gabriela Baeza Ventura, PhD: curation, metadata, translations, editing, protocols </li>
+    <li>Lorena Gauthereau, PhD: curation, metadata, translations, editing, protocols</li>
+    <li>Nicolás Kanellos, PhD: Collection owner/donor, advisor</li>
+    <li>Katerín Zapata: geolocation, image resizing, upload</li>
+    <li>S. Shine Trabucco: geolocation</li>
+    <li>María Sánchez Carbajo: scanning, inventory</li>
+    <li>Elías David Navarro: translations</li> 
+  </ul>
  <p>
   </p> 
 <br>4. Share the docs:  
