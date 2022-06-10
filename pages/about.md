@@ -45,17 +45,13 @@ The metadata is available for download on the site’s <a href="https://recovery
 This site is generated using <a href="https://collectionbuilding.github.io/gh/">CollectionBuilder-GH</a>, a project to create a free and simple digital collection using <a href="https://pages.github.com/">GitHub Pages</a> from:<br><br>
 -a CSV of collection metadata<br>
 -a folder of JPG images or PDF documents<br><br>
-The template repository features four objects from the University of Idaho Library's <a href="https://www.lib.uidaho.edu/digital">Digital Collections</a>.<br>  
-
-<br><br>
-  For full details of creating your own collection site, visit <a href="https://collectionbuilder.github.io/cb-docs/">CollectionBuilder Documentation</a>!<br> 
-
-  <br><i>5. Understanding use:</i>
+The template repository features four objects from the University of Idaho Library's <a href="https://www.lib.uidaho.edu/digital">Digital Collections</a>.<br><br>
+  For full details of creating your own collection site, visit <a href="https://collectionbuilder.github.io/cb-docs/">CollectionBuilder Documentation</a>!<br><br>
+<i>5. Understanding use:</i>
 <br><br>
 This collection is geared toward researchers, educators, students and community members interested in learning about the US Latino theater, its origins, key participants, theaters, troupes and performances. Users can use it as a launching point for further research in US Latino Studies, American Studies, Theater and Performance Studies, material/print culture and Women, Gender and Sexualities Studies, etc.  
-   <p>
-  </p>
-  <br><i>6. Who supports use:</i></p>  
+<br><br>
+  <i>6. Who supports use:</i></p>  
  <br><br>
 The digital collection is supported by the <a href="https://artepublicopress.com/digital-humanities/">US Latino Digital Humanities Center/Recovering the US Hispanic Literary Heritage Program</a>.
 <br><br>
