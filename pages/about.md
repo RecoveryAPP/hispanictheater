@@ -51,7 +51,7 @@ The template repository features four objects from the University of Idaho Libra
 <br><br>
 This collection is geared toward researchers, educators, students and community members interested in learning about the US Latino theater, its origins, key participants, theaters, troupes and performances. Users can use it as a launching point for further research in US Latino Studies, American Studies, Theater and Performance Studies, material/print culture and Women, Gender and Sexualities Studies, etc.  
 <br><br>
-  <i>6. Who supports use:</i></p>  
+  <i>6. Who supports use:</i>
  <br><br>
 The digital collection is supported by the <a href="https://artepublicopress.com/digital-humanities/">US Latino Digital Humanities Center/Recovering the US Hispanic Literary Heritage Program</a>.
 <br><br>
