@@ -25,7 +25,7 @@ credits: true
   </p>
   <br><i>3. How you did it:</i> 
 <p>USLDH staff used CollectionBuilder’s three primary components—a spreadsheet of metadata, a directory of assets, and a configuration file—to build and customize a sustainable, digital exhibit. Research Fellows and interns digitized the items in the collection and USLDH staff, under the direction of Gabriela Baeza Ventura and Lorena Gauthereau. Baeza Ventura and Gauthereau curated an exhibit and created the metadata. Research Fellows and interns researched latitude and longitude data for geolocation. Images were resized to comply with CollectionBuilder specifications. English and Spanish translations were created by Baeza Ventura, Gauthereau and Research Fellow. USLDH used Google Drive to create and organize the metadata in order to mitigate the challenges of working during the COVID-19 pandemic.</p>  
-<br><i>People</i> <br>
+<p><i>People</i> <br>
   Gabriela Baeza Ventura, PhD: curation, metadata, translations, editing, protocols <br>
    Lorena Gauthereau, PhD: curation, metadata, translations, editing, protocols<br>
    Nicolás Kanellos, PhD: Collection owner/donor, advisor<br>
@@ -76,10 +76,8 @@ Elías David Navarro: translations<br>
   <br><i>8. What’s next:</i>
 <p>
   </p>  
-  <br>USLDH will publish a digital version of <i>Mexican American Theatre: Then and Now</i> (1989), edited by Nicolás Kanellos on [APPDigital](https://artepublicopress.manifoldapp.org/). <i>Mexican American Theatre</i> is a collection of interviews, essays and vaudeville skits from the 1930s to the 1950s all pertaining to Mexican-American theater. It includes historical studies by Jorge Huerta, Nicolás Kanellos, Tomás Ybarra-Frausto and others; an exclusive interview of Luis Valdez; and vaudeville material from Lalo Astol, the Carpa Garcia and others.  
- <p>
-  </p> 
-<br>USLDH is currently working with CollectionBuilder to create a multilingual version of the platform.  
+  <br>USLDH will publish a digital version of <i>Mexican American Theatre: Then and Now</i> (1989), edited by Nicolás Kanellos on <a href="https://artepublicopress.manifoldapp.org/">APPDigital </a>. <i>Mexican American Theatre</i> is a collection of interviews, essays and vaudeville skits from the 1930s to the 1950s all pertaining to Mexican-American theater. It includes historical studies by Jorge Huerta, Nicolás Kanellos, Tomás Ybarra-Frausto and others; an exclusive interview of Luis Valdez; and vaudeville material from Lalo Astol, the Carpa Garcia and others.  
+ <p>USLDH is currently working with CollectionBuilder to create a multilingual version of the platform.</p>
 
 
 
