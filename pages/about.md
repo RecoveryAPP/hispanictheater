@@ -36,7 +36,7 @@ Elías David Navarro: translations<br>
 <br>
   <br><i>4. Share the docs:</i> 
  <br>
-<br>USLDH employed its <a href= "https://artepublicopress.com/digital-humanities/">Best Practices </a> during the elaboration of this work.<br><br>
+<br>USLDH employed its <a href="https://artepublicopress.com/digital-humanities/">Best Practices </a> during the elaboration of this work.<br><br>
 
 Kanellos, Nicolás (ed.), <i>Mexican Theatre: Then and Now.</i> Arte Público Press, 1989.<br><br>  
 
