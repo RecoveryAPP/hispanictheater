@@ -56,15 +56,15 @@ This collection is geared toward researchers, educators, students and community 
  <br><br>
 The digital collection is supported by the <a href="https://artepublicopress.com/digital-humanities/">US Latino Digital Humanities Center/Recovering the US Hispanic Literary Heritage Program</a>.
 <br>
-<br>The Nicolás Kanellos Hispanic Theater Collection is housed at the <a href="https://findingaids.lib.uh.edu/repositories/2/resources/482">University of Houston Libraries Special Collections</a>. The collection consists of 9 boxes of manuscripts, printed materials, photographs and publications related to Hispanic theater dating from 1972 to 2015. The collection includes materials collected by Dr. Kanellos as well as documentation of his 1985 exhibit "Two Centuries of Hispanic Theatre in the United States."
+The Nicolás Kanellos Hispanic Theater Collection is housed at the <a href="https://findingaids.lib.uh.edu/repositories/2/resources/482">University of Houston Libraries Special Collections</a>. The collection consists of 9 boxes of manuscripts, printed materials, photographs and publications related to Hispanic theater dating from 1972 to 2015. The collection includes materials collected by Dr. Kanellos as well as documentation of his 1985 exhibit "Two Centuries of Hispanic Theatre in the United States."
   <br>
   <br>
  <i>7. Things people should know:</i> 
-  <br><br>
+  <br>
 <br>When working with Hispanic materials in the United States, users should be mindful of language usage, gender, historical context and linguistic cultural competence in the public facing part of your project. As Nicolás Kanellos curated the physical collection, he researched newspapers and playbills to identify Hispanic playwrights, actors and actresses, theater staff (producers, stage managers, directors, set designers, costume designers, etc.), plays, troupes, theater buildings and their locations in order to create a better understanding of the origins of Hispanic theater in the United States. This digital exhibit draws from Kanellos’ collection at the University of Houston’s Special Collections to highlight the key players, theaters and troupes in US Hispanic theater. The Hispanic Theater Collection features photographs, posters, playbills, flyers, among other items related to Hispanic theater in the United States.  
  <br>
   <br>
-  <br><i>8. What’s next:</i>
+ <i>8. What’s next:</i>
 <br><br>
   USLDH will publish a digital version of <i>Mexican American Theatre: Then and Now</i> (1989), edited by Nicolás Kanellos on <a href="https://artepublicopress.manifoldapp.org/">APPDigital</a>. <i>Mexican American Theatre</i> is a collection of interviews, essays and vaudeville skits from the 1930s to the 1950s all pertaining to Mexican-American theater. It includes historical studies by Jorge Huerta, Nicolás Kanellos, Tomás Ybarra-Frausto and others; an exclusive interview of Luis Valdez; and vaudeville material from Lalo Astol, the Carpa Garcia and others.<br><br>
  <br>USLDH is currently working with CollectionBuilder to create a multilingual version of the platform.
