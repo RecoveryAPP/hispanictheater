@@ -46,7 +46,7 @@ This site is generated using <a href="https://collectionbuilding.github.io/gh/">
 -a CSV of collection metadata<br>
 -a folder of JPG images or PDF documents<br>
   
-The template repository features four objects from the University of Idaho Library's <a href="https://www.lib.uidaho.edu/digital">Digital Collections</a>.<
+The template repository features four objects from the University of Idaho Library's <a href="https://www.lib.uidaho.edu/digital">Digital Collections</a>.
   For full details of creating your own collection site, visit <a href="https://collectionbuilder.github.io/cb-docs/">CollectionBuilder Documentation</a>!<br><br>
 <i>5. Understanding use:</i>
 <br><br>
@@ -55,7 +55,7 @@ This collection is geared toward researchers, educators, students and community 
   <i>6. Who supports use:</i>
  <br><br>
 The digital collection is supported by the <a href="https://artepublicopress.com/digital-humanities/">US Latino Digital Humanities Center/Recovering the US Hispanic Literary Heritage Program</a>.
-<br>
+<br><p></p>fi
 The Nicolás Kanellos Hispanic Theater Collection is housed at the <a href="https://findingaids.lib.uh.edu/repositories/2/resources/482">University of Houston Libraries Special Collections</a>. The collection consists of 9 boxes of manuscripts, printed materials, photographs and publications related to Hispanic theater dating from 1972 to 2015. The collection includes materials collected by Dr. Kanellos as well as documentation of his 1985 exhibit "Two Centuries of Hispanic Theatre in the United States."
   <br>
   <br>
