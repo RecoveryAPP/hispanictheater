@@ -61,6 +61,7 @@ The Nicolás Kanellos Hispanic Theater Collection is housed at the <a href="http
   <br>
  <i>7. Things people should know:</i> 
   <br>
+  <br>
 <br>When working with Hispanic materials in the United States, users should be mindful of language usage, gender, historical context and linguistic cultural competence in the public facing part of your project. As Nicolás Kanellos curated the physical collection, he researched newspapers and playbills to identify Hispanic playwrights, actors and actresses, theater staff (producers, stage managers, directors, set designers, costume designers, etc.), plays, troupes, theater buildings and their locations in order to create a better understanding of the origins of Hispanic theater in the United States. This digital exhibit draws from Kanellos’ collection at the University of Houston’s Special Collections to highlight the key players, theaters and troupes in US Hispanic theater. The Hispanic Theater Collection features photographs, posters, playbills, flyers, among other items related to Hispanic theater in the United States.  
  <br>
   <br>
