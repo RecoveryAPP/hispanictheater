@@ -40,11 +40,11 @@ Elías David Navarro: translations<br>
 
 Kanellos, Nicolás (ed.), <i>Mexican Theatre: Then and Now.</i> Arte Público Press, 1989.  
 
-This About section follows <a href= "https://collectionsasdata.github.io/facet7/">Collections as Data</a> facets.
-The metadata is available for download on the site’s <a href="https://recoveryapp.github.io/hispanictheater/data.html">Data</a> menu tab.
-This site is generated using <a href="https://collectionbuilding.github.io/gh/">CollectionBuilder-GH</a>, a project to create a free and simple digital collection using <a href="https://pages.github.com/">GitHub Pages</a> from:
+This About section follows <a href= "https://collectionsasdata.github.io/facet7/">Collections as Data</a> facets.<br>
+The metadata is available for download on the site’s <a href="https://recoveryapp.github.io/hispanictheater/data.html">Data</a> menu tab.<br>
+This site is generated using <a href="https://collectionbuilding.github.io/gh/">CollectionBuilder-GH</a>, a project to create a free and simple digital collection using <a href="https://pages.github.com/">GitHub Pages</a> from:<br>
 -a CSV of collection metadata<br>
--a folder of JPG images or PDF documents
+-a folder of JPG images or PDF documents<br>
 The template repository features four objects from the University of Idaho Library's <a href="https://www.lib.uidaho.edu/digital">Digital Collections</a>.<
   For full details of creating your own collection site, visit <a href="https://collectionbuilder.github.io/cb-docs/">CollectionBuilder Documentation</a>!<br><br>
 <i>5. Understanding use:</i>
