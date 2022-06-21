@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://github.com/RecoveryAPP/hispanictheater/blob/main/objects/histhea0120.jpg" %}
+{% include feature/jumbotron.html objectid="https://raw.githubusercontent.com/RecoveryAPP/hispanictheater/d8fa38baf032e46150aff1d5763da9277ce284fa/objects/histhea0120.jpg" %}
 
 {% include feature/nav-menu.html sections="About the Collection;1 and 2: Why do it and Making the case:;3. How you did it:;4. Share the docs:;5. Understanding use:;6. Who supports use:;7. Things people should know:;8. What’s next:" %}
 
