@@ -37,6 +37,15 @@ author: USLDH Center, Recovering the US Hispanic Literary Heritage
 metadata: hispanictheater
 
 ##########
+# Site/Organization Branding 
+#   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
+#
+organization-name: "US Latino Digital Humanities Center (USLDH)"
+organization-link: https://artepublicopress.com/digital-humanities/
+organization-logo-banner: https://artepublicopress.com/wp-content/uploads/2019/10/APP_USLDH_Logo_Info-e1570636016265.jpg
+organization-logo-nav: https://artepublicopress.com/wp-content/uploads/2019/10/APP_USLDH_Logo_Info-e1570636016265.jpg
+
+##########
 # GOOGLE SERVICES [optional!]
 #
 # leave these blank or comment out to NOT include google code. See docs/google.md
