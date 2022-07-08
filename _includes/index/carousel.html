@@ -29,6 +29,12 @@
 {%- endcomment -%}
 <style>
     #imageCarousel .carousel-item { height: {{ include.height | remove: 'px' | strip | default: '300' }}px; }
+    .carousel-caption {
+        position: relative;
+        left: 0;
+        top: 0;
+    }
+    .carousel-inner { padding-bottom: 250px; }
 </style>
 <div class="card mb-3">
     {% if include.header %}<h5 class="card-header">{{ include.header }}</h5>{% endif %}
@@ -84,7 +90,7 @@
         // create indicator 
         indicator = '<li data-target="#imageCarousel" data-slide-to="' + i.toString() + '" class="' + active + '"></li>';
         // create slide
-        slide = '<div class="carousel-item py-2 ' + active +'"><img class="d-block h-100 mx-auto lazyload" alt="image highlight" data-src="' + itemImg + '"> <div class="carousel-caption"><a target="_blank" href="' + itemLink + '" class="btn btn-sm btn-{{ btn-color }}">{{ btn-text }}</a></div></div>';
+        slide = '<div class="carousel-item py-2 ' + active +'"><img class="d-block h-100 mx-auto lazyload" alt="image highlight" data-src="' + itemImg + '"> <div class="carousel-caption d-none d-md-block mb-4"><p class="carousel-item-title text-white py-2"><small>' + carouselItems[i][0] + '</small></p><a target="_blank" href="' + itemLink + '" class="btn btn-sm btn-{{ btn-color }}">{{ btn-text }}</a></div></div>';
         slides += slide;
         indicators += indicator;
     }
