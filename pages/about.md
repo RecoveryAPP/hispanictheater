@@ -28,9 +28,10 @@ USLDH staff used CollectionBuilder’s three primary components—a spreadsheet 
 
 ***People***
 
-- Gabriela Baeza Ventura, PhD: curation, metadata, translations, editing, protocols 
-- Lorena Gauthereau, PhD: curation, metadata, translations, editing, protocols
+- Gabriela Baeza Ventura, PhD: USLDH Team, curation, metadata, translations, editing, protocols 
+- Lorena Gauthereau, PhD: USLDH Team, curation, metadata, translations, editing, protocols
 - Nicolás Kanellos, PhD: Collection owner/donor, advisor
+- Carolina Villarroel, PhD, CA: USLDH Team
 - Katerín Zapata: geolocation, image resizing, upload
 - S. Shine Trabucco: geolocation
 - María Sánchez Carbajo: scanning, inventory
