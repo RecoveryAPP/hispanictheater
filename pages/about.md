@@ -36,6 +36,8 @@ USLDH staff used CollectionBuilder’s three primary components—a spreadsheet 
 - S. Shine Trabucco: geolocation
 - María Sánchez Carbajo: scanning, inventory
 - Elías David Navarro: translations
+- Olivia Wikle: CollectionBuilder consultant
+- Devin Becker: CollectionBuilder consultant
 
 ### 4. Share the docs: 
 
