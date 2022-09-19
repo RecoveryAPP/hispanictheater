@@ -38,6 +38,7 @@ USLDH staff used CollectionBuilder’s three primary components—a spreadsheet 
 - Elías David Navarro: translations
 - Olivia Wikle: CollectionBuilder consultant
 - Devin Becker: CollectionBuilder consultant
+- Evan Williamson: CollectionBuilder consultant
 
 ### 4. Share the docs: 
 
