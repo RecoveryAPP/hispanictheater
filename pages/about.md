@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://raw.githubusercontent.com/RecoveryAPP/hispanictheater/main/objects/histheabanner.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;1 and 2: Why do it and Making the case;3. How you did it;4. Share the docs;5. Understanding use;6. Who supports use;7. Things people should know;8. What’s next;Sobre la colección" %}
+{% include feature/nav-menu.html sections="About the Collection;1 and 2: Why do it and Making the case;3. How you did it;4. Share the docs;5. Understanding use;6. Who supports use;7. Things people should know;8. What’s next;Sobre la colección;1 y 2: Por qué era necesario hacerlo y justificación;3. Cómo lo hiciste;4. Comparte los documentos;5. Acerca del uso de la colección;6. Quién apoya el uso;7. Algunas cosas que la gente debería saber;8. Qué sigue;Tech" %}
 
 ## About the Collection
 
